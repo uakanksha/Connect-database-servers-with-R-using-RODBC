@@ -63,5 +63,5 @@ print(col.detail[c(2,3,4,6,7,9,18)], row.names=FALSE)
 ```
 Dis-connect
 ```bash
-odbcCloseAll()
+$ odbcCloseAll()
 ```
